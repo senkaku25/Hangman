@@ -1,6 +1,6 @@
 # Hangman
 
-This is a Python remake of Hangman.
+This program is a python implementation of the game Hangman.
 
 ## Files
 
@@ -17,7 +17,7 @@ This is a Python remake of Hangman.
 
 **HMGraphics.py**
 
-* Prints the graphics for Hangman
+* This python file prints the graphics for Hangman
 
 ## Author
 
